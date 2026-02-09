@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'm Vishesh Rai:
 🔭 I’m currently a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University<br>👯 I’m looking for a job as Software Engineer<br>🌱 I’m currently learning App Development<br>💬 Ask me about Web Development and App Development
 
 
